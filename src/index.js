@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from "./hooks/useInput";
+import App from "./hooks/useTabs"; // Fix it!
 
 import "./index.css";
 
