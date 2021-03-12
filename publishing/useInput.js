@@ -11,6 +11,8 @@ export const useInput = (initialValue, validator) => {
     if (willUpdate) {
       setValue(value);
     }
-  }
-  return { value, onChange }
-}
+  };
+  return { value, onChange };
+};;
+
+// User가 입력하는 데이터에 조건을 붙인다.
