@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from "./hooks/useClick"; // Fix it!
+import App from "./hooks-like/usePreventLeave"; // Fix it!
 
 import "./index.css";
 
